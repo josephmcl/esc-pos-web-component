@@ -1,4 +1,4 @@
-# esc-pos-web-component
+# ESC/POS Web Component
 
 Access USB [ESC/POS][3] printers in the browser using [WebUsb][1] and [Web Components][2]!
 
